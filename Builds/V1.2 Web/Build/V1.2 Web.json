@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lisa Jura small room",
+"dataUrl": "V1.2 Web.data.unityweb",
+"asmCodeUrl": "V1.2 Web.asm.code.unityweb",
+"asmMemoryUrl": "V1.2 Web.asm.memory.unityweb",
+"asmFrameworkUrl": "V1.2 Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
